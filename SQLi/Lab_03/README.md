@@ -1,12 +1,11 @@
-# Lab #12 - Blind SQL injection with conditional errors
-https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
+# Lab #3: SQL injection UNION attack, determining the number of columns returned by the query
+https://portswigger.net/web-security/sql-injection/union-attacks/lab-determine-number-of-columns
 
 Vulnerable parameter - tracking cookie
 
 
 **End Goals:**
-- Output the administrator password
-- Login as the administrator user
+- determine the number of columns returned by the query.
 
 
 **Analysis:**
