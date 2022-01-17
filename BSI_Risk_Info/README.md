@@ -1,2 +1,3 @@
-#This package can be used for simple automated web surfing / scraping the BSI Risk Information.
+#BSI_Risk_Information
+This script can be used for simple automated web surfing / scraping the BSI Risk Information.
 
